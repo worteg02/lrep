@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WU MAERS BEATS GBLUE$ DROPBOX</title>
+    <style>
+        /* Estilo general del cuerpo */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #000; /* Fondo principal negro */
+            color: #FFD700; /* Letras en amarillo */
+            text-align: center;
+        }
+
+        /* Estilo del título */
+        h1 {
+            margin: 20px;
+            font-size: 2em;
+            color: #FFD700; /* Amarillo */
+        }
+
+        /* Estilo del reproductor de audio */
+        #audioPlayer {
+            width: 90%;
+            max-width: 600px;
+            margin: 20px auto;
+            display: block;
+            background-color: #FFD700; /* Fondo amarillo */
+            border: 2px solid #FFD700; /* Borde amarillo */
+            border-radius: 8px;
+            padding: 5px;
+        }
+
+        /* Lista de reproducción */
+        .playlist {
+            list-style: none;
+            padding: 0;
+            margin: 20px auto;
+            max-width: 600px;
+        }
+
+        /* Canciones de la lista */
+        .playlist li {
+            margin: 10px 0;
+            cursor: pointer;
+            color: #FFD700; /* Amarillo */
+            text-decoration: none;
+            font-size: 1.1em;
+            transition: color 0.3s ease;
+        }
+
+        .playlist li:hover {
+            color: #FFA500; /* Cambia a un tono anaranjado al pasar el cursor */
+        }
+    </style>
+</head>
+<body>
+    <h1>GBLUE$ DROPBOX BEATS</h1>
+    <audio id="audioPlayer" controls></audio>
+    <ul id="playlist" class="playlist">
+        <!-- Las canciones se generarán dinámicamente -->
+    </ul>
+
+    <script src="playlist.js"></script>
+</body>
+</html>
