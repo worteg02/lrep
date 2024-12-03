@@ -1,7 +1,7 @@
 // Lista de URLs de las canciones en Dropbox
 const canciones = [
-    { titulo: "60 Segundos- Get-Em-Beat-Monk-x-Vikingo.wav", url: "aHR0cHM6Ly93d3cuZHJvcGJveC5jb20vc2NsL2ZpL2hwNnYzZGJjcXFiMmR4cDVvZW10cy9HZXQtRW0tQmVhdC1Nb25rLXgtVmlraW5nby53YXY/cmxrZXk9OWtmbnM2MGpsOWI5d3lnNW9jNjZ0MmI4bSZzdD1zY3B5NXV2eCZyYXc9MQ==" },
-    { titulo: "60 Segundos- Get-Em-Beat-Monk-x-Vikingo.wav", url: "aHR0cHM6Ly93d3cuZHJvcGJveC5jb20vc2NsL2ZpL2hwNnYzZGJjcXFiMmR4cDVvZW10cy9HZXQtRW0tQmVhdC1Nb25rLXgtVmlraW5nby53YXY/cmxrZXk9OWtmbnM2MGpsOWI5d3lnNW9jNjZ0MmI4bSZzdD1zY3B5NXV2eCZyYXc9MQ==" },
+    { titulo: "60 Segundos- Get-Em-Beat-Monk-x-Vikingo.wav", url: "aHR0cHM6Ly93d3cuZHJvcGJveC5jb20vc2NsL2ZpLzFnc3M4a2pxZTd4Znl0YjQwdWR0ZS9Cb29tYmx1LUNob3AtU2Vuc2kteC1WaWtpbmdvLndhdj9ybGtleT13OGZwdjJzOHRpamZocDg3YWppYTNpZnBmJnN0PWVlazY3Z2o4JmRsPTE=" },
+    { titulo: "60 Segundos- Chop-Sensi-x-Vikingo.wav", url: "aHR0cHM6Ly93d3cuZHJvcGJveC5jb20vc2NsL2ZpL2hwNnYzZGJjcXFiMmR4cDVvZW10cy9HZXQtRW0tQmVhdC1Nb25rLXgtVmlraW5nby53YXY/cmxrZXk9OWtmbnM2MGpsOWI5d3lnNW9jNjZ0MmI4bSZzdD1zY3B5NXV2eCZyYXc9MQ==" },
     { titulo: "60 Segundos- I-Don-t-Beat-Monk-X-Vikingo.wav", url: "aHR0cHM6Ly93d3cuZHJvcGJveC5jb20vc2NsL2ZpL2M2YWZ5OXdvc3c1eXJqZzBpcWo5L0ktRG9uLXQtQmVhdC1Nb25rLVgtVmlraW5nby53YXY/cmxrZXk9cGJqZXhudnFma3NuY3RvdzAyam56aWt4YyZzdD0yNXJlanRrNyZyYXc9MQ==" },
     { titulo: "60 Segundos- Main-Event-Beat-Monk-x-Vikingo.wav", url: "aHR0cHM6Ly93d3cuZHJvcGJveC5jb20vc2NsL2ZpL2s5dHQ1d3E5aXFtODNpM3R4aXIxeC9NYWluLUV2ZW50LUJlYXQtTW9uay14LVZpa2luZ28ud2F2P3JsZ2tleT1nMm4xZGZnYWRsMW9zd29oNXNydjJjNGpoJnN0PXNjZDFveWhiJnJhdz0x" },
     { titulo: "60 Segundos- Pista-1-Vikingo.wav", url: "aHR0cHM6Ly93d3cuZHJvcGJveC5jb20vc2NsL2ZpLzNtejk2c3hyM2NiYzNpeWMwdnFjMy9QaXN0YS0xLVZpa2luZ28ud2F2P3JsZ2tleT1icnVocGs2dHZsMWZxdTl0eG9pNHVlZTV2JnN0PTdoMmtzM25iJnJhdz0x" },
