@@ -1,16 +1,16 @@
 // Lista de URLs de las canciones en Dropbox
 const canciones = [
-    { titulo: "BEAT 1", url: "#" },
-    { titulo: "BEAT 2", url: "#" },
-    { titulo: "BEAT 3", url: "#" },
-    { titulo: "BEAT 4", url: "#" },
-    { titulo: "BEAT 5", url: "#" },
-    { titulo: "BEAT 6", url: "#" }
+    { titulo: "60 Segundos- Get-Em-Beat-Monk-x-Vikingo.wav ", url: "https://www.dropbox.com/scl/fi/hp6v3dbcqqb2dxp5oemts/Get-Em-Beat-Monk-x-Vikingo.wav?rlkey=9kfns60jl9b9wyg5oc66t2b8m&st=scpy5uvx&raw=1" },
+    { titulo: "60 Segundos- Get-Em-Beat-Monk-x-Vikingo.wav", url: "https://www.dropbox.com/scl/fi/hp6v3dbcqqb2dxp5oemts/Get-Em-Beat-Monk-x-Vikingo.wav?rlkey=9kfns60jl9b9wyg5oc66t2b8m&st=scpy5uvx&raw=1" },
+    { titulo: "60 Segundos- I-Don-t-Beat-Monk-X-Vikingo.wav ", url: "https://www.dropbox.com/scl/fi/c6afy9wos7s5yrjg0iqj9/I-Don-t-Beat-Monk-X-Vikingo.wav?rlkey=pbjexnvqfksnctow02jnzikxc&st=25rejtk7&raw=1" },
+    { titulo: "60 Segundos- Main-Event-Beat-Monk-x-Vikingo.wav ", url: "https://www.dropbox.com/scl/fi/k9tt5wq9iqm83i3txir1x/Main-Event-Beat-Monk-x-Vikingo.wav?rlkey=g2n1dfgadl1oswoh5srv2c4jh&st=scd1oyhb&raw=1" },
+    { titulo: "60 Segundos- Pista-1-Vikingo.wav ", url: "https://www.dropbox.com/scl/fi/3mz96sxr3cbc3iyc0vqc3/Pista-1-Vikingo.wav?rlkey=bruhpk6tvl1fqu9txoi4uee5v&st=7h2ks3nb&raw=1" },
+    { titulo: "60 Segundos- Pista-2-Vikingo.wav ", url: "https://www.dropbox.com/scl/fi/ccyfobco7ewdo6gpz7wec/Pista-2-Vikingo.wav?rlkey=awt1xwpn7knbbvyfpclw0jm1s&st=8bwfij2w&raw=1" },
+    { titulo: "60 Segundos- Rawness-Beat-Monk-x-Vikingo.wav ", url: "https://www.dropbox.com/scl/fi/uqt4o458vlcrn0w7y2s93/Rawness-Beat-Monk-x-Vikingo.wav?rlkey=xr5acodfkndnhtrv919g8pxb3&st=4mvswzms&raw=1" },
+    { titulo: "60 Segundos- Shaolin-Vengeance-Beat-Monk-x-Vikingo.wav ", url: "https://www.dropbox.com/scl/fi/p6mjahfxs08yh7kgqyft8/Shaolin-Vengeance-Beat-Monk-x-Vikingo.wav?rlkey=5vj3co8q7eg408w7omr1gyo2a&st=nlkaa3co&raw=1" },
+    { titulo: "60 Segundos- ", url: "#" }
+   
 ];
-
-
-
-
 
 // Elementos del DOM
 const audioPlayer = document.getElementById('audioPlayer');
